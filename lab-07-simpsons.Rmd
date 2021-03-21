@@ -1,8 +1,12 @@
 ---
 title: "lab-07-simpsons.Rmd"
-author: "Musab Isah "
-date: "17 March 2021"
-output: pdf_document
+author: "Refan Nayef AL shammari"
+date: "19 March 2021"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+  word_document: default
 ---
 
 ```{r setup, include=FALSE}
